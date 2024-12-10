@@ -1,0 +1,35 @@
+body {
+  background-color: hsl(180, 100%, 12%);
+}
+
+.app {
+  background-color: hwb(180 0% 46%);
+  color: white;
+  max-width: 600px;
+  margin: 60px auto;
+  box-shadow: 0 30px 50px #00ffdd5c;
+  border-radius: 15px;
+  padding: 60px;
+}
+
+.inputText {
+  margin-right: 30px;
+  background-color: hsl(190, 84%, 85%);
+  border: none;
+  border-radius: 8px;
+  max-width: 80%;
+  width: 80%;
+  padding: 15px 20px;
+  margin: 10px auto;
+}
+.box {
+  display: flex;
+}
+
+.button {
+  background-color: hwb(188 58% 3% / 0.871);
+  border: none;
+  border-radius: 8px;
+  margin: 9px auto;
+  padding: 0px 20px;
+}
